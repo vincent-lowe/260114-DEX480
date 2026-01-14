@@ -52,6 +52,7 @@ Classroom Playlist
 |-----------|------|-----|
 |The Streetbeater|Quincy Jones|TV theme from Sanford and Son|
 |Tupelo Honey|Reina del Cid|she now records as Elle Cordova|
+|Here We Go Again|Ray Charles and Norah Jones||
 
 
 
