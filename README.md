@@ -58,5 +58,6 @@ Classroom Playlist
 |Can't Find My Way Home|Bonnie Raitt||
 |The Hitter|Mark Erelli||
 |It Ain't Over Yet|Rodney Crowell||
+|Crazy He Calls Me|Billie Holiday||
 
 
