@@ -54,6 +54,7 @@ Classroom Playlist
 |Tupelo Honey|Reina del Cid|she now records as Elle Cordova|
 |Here We Go Again|Ray Charles and Norah Jones||
 |Just Stopped In (To See What Condition My Condition Was In)||
-
+|Good Day for a Good Day|Michael Franti||
+|Can't Find My Way Home|Bonnie Raitt||
 
 
