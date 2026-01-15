@@ -56,5 +56,7 @@ Classroom Playlist
 |Just Stopped In (To See What Condition My Condition Was In)||
 |Good Day for a Good Day|Michael Franti||
 |Can't Find My Way Home|Bonnie Raitt||
+|The Hitter|Mark Erelli||
+
 
 
